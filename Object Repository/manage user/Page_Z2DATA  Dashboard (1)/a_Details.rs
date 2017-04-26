@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Details</name>
+   <tag></tag>
+   <elementGuidId>dddfc6de-ec66-4885-80f7-20604dfb1cca</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper&quot;]/div[1]/div[@class=&quot;row maintabs&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row m-t-sm&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-striped&quot;]/tbody[1]/tr[7]/td[6]/a[2]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Users/Details/3165e7df-8206-41ec-83c4-f2ad40ddf2d3</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Details</value>
+   </webElementProperties>
+</WebElementEntity>
