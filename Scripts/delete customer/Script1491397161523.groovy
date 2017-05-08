@@ -21,7 +21,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://dk.z2data.com/Account/Login?ReturnUrl=%2F')
+WebUI.navigateToUrl('https://dk.z2data.com:8080/Account/Login?ReturnUrl=%2F')
 
 WebUI.setText(findTestObject('delete customer/Page_Login/input_Email'), 'nada.mahmoud@z2data.com')
 
