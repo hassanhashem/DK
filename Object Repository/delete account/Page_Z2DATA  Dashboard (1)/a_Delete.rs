@@ -10,14 +10,14 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>html/body/div[2]/div/div[2]/div/div/div[2]/div/div/div/table/tbody/tr[29]/td[6]/a[3]</value>
+      <value>.//*[@id='page-wrapper']/div[2]/div/div/div[2]/div/div/div/table/tbody/tr[34]/td[6]/a[3]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/Users/Delete/ca807118-f5a1-434c-a849-6b5a28e603a3</value>
+      <value>/Users/Delete/e4fcb85b-0705-48d9-8db4-acf63a108891</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
