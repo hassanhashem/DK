@@ -21,7 +21,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://dk.z2data.com/Account/Login?ReturnUrl=%2F')
+WebUI.navigateToUrl('https://dk.z2data.com:8080/Account/Login?ReturnUrl=%2F')
 
 WebUI.setText(findTestObject('add customer/Page_Login/input_Email'), 'nada.mahmoud@z2data.com')
 
@@ -29,7 +29,8 @@ WebUI.setText(findTestObject('add customer/Page_Login/input_Password'), 'nada123
 
 WebUI.click(findTestObject('add customer/Page_Login/input_btn btn-info block full-'))
 
-WebUI.verifyElementPresent(findTestObject('add customer/Page_Z2DATA  Dashboard (1)/Page_Z2DATA  Dashboard/Add Customer'), 0)
+WebUI.verifyElementPresent(findTestObject('add customer/Page_Z2DATA  Dashboard (1)/Page_Z2DATA  Dashboard/Add Customer'), 
+    0)
 
 WebUI.click(findTestObject('add customer/Page_Z2DATA  Dashboard (1)/Page_Z2DATA  Dashboard/Add Customer'))
 
