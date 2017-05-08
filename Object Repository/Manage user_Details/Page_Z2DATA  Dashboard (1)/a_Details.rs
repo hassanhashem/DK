@@ -17,17 +17,17 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper&quot;]/div[1]/div[@class=&quot;row maintabs&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row m-t-sm&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-striped&quot;]/tbody[1]/tr[7]/td[6]/a[2]</value>
+      <value>.//*[@id='page-wrapper']/div[2]/div/div/div[2]/div/div/div/table/tbody/tr[34]/td[6]/a[2]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/Users/Details/3165e7df-8206-41ec-83c4-f2ad40ddf2d3</value>
+      <value>/Users/Details/e4fcb85b-0705-48d9-8db4-acf63a108891</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>

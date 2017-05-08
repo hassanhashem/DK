@@ -23,25 +23,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://dk.z2data.com:8080/Account/Login?ReturnUrl=%2F')
 
-WebUI.setText(findTestObject('manage user/Page_Login/input_Email'), 'hassan.hashem@z2data.com')
+WebUI.setText(findTestObject('Manage user_Details/Page_Login/input_Email'), 'hassan.hashem@z2data.com')
 
-WebUI.setText(findTestObject('manage user/Page_Login/input_Password'), 'P@ssw0rd@2017')
+WebUI.setText(findTestObject('Manage user_Details/Page_Login/input_Password'), 'P@ssw0rd@2017')
 
-WebUI.click(findTestObject('manage user/Page_Login/input_btn btn-info block full-'))
+WebUI.click(findTestObject('Manage user_Details/Page_Login/input_btn btn-info block full-'))
 
-WebUI.click(findTestObject('manage user/Page_Z2DATA  Dashboard/span_caret'))
+WebUI.click(findTestObject('Manage user_Details/Page_Z2DATA  Dashboard/span_caret'))
 
-WebUI.click(findTestObject('manage user/Page_Z2DATA  Dashboard/a_Admin Panel'))
+WebUI.click(findTestObject('Manage user_Details/Page_Z2DATA  Dashboard/a_Admin Panel'))
 
-WebUI.click(findTestObject('manage user/Page_Z2DATA  Dashboard (1)/a_Manage Users'))
+WebUI.click(findTestObject('Manage user_Details/Page_Z2DATA  Dashboard (1)/a_Manage Users'))
 
-WebUI.click(findTestObject('manage user/Page_Z2DATA  Dashboard (1)/a_Details'))
-
-WebUI.click(findTestObject('manage user/Page_Z2DATA  Dashboard (3)/a_Edit'))
-
-WebUI.setText(findTestObject('manage user/Page_Z2DATA  Dashboard (4)/input_PhoneNumber'), '1111111111111')
-
-WebUI.click(findTestObject('manage user/Page_Z2DATA  Dashboard (4)/input_btn btn-default'))
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Manage user_Details/Page_Z2DATA  Dashboard (1)/a_Details'))
 
