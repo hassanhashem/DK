@@ -29,5 +29,3 @@ WebUI.setText(findTestObject('DK Production/Verify Site Up and Runing/input_Pass
 
 WebUI.click(findTestObject('DK Production/Verify Site Up and Runing/input_btn btn-info block full-'))
 
-WebUI.closeBrowser()
-
