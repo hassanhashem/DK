@@ -1,9 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
-Verify DK Production,Firefox 53.0,Verify DK Production,2017-05-13 18:03:20,2017-05-13 18:04:00,39.176s,PASSED
-,,,,,,
-Test Cases/DK Production/Verify Site Up and Runing,Firefox 53.0,Verify Site Up and Runing,2017-05-13 18:03:21,2017-05-13 18:04:00,38.776s,PASSED
-openBrowser,Firefox 53.0,,2017-05-13 18:03:21,2017-05-13 18:03:32,10.324s,PASSED
-navigateToUrl,Firefox 53.0,,2017-05-13 18:03:32,2017-05-13 18:03:48,16.204s,PASSED
-setText,Firefox 53.0,,2017-05-13 18:03:48,2017-05-13 18:03:48,0.488s,PASSED
-setText,Firefox 53.0,,2017-05-13 18:03:48,2017-05-13 18:03:49,1.029s,PASSED
-click,Firefox 53.0,,2017-05-13 18:03:49,2017-05-13 18:04:00,10.289s,PASSED
